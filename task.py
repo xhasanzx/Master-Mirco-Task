@@ -1,5 +1,4 @@
-import sys
-import re
+import sys, re
 import numpy as np
 import matplotlib.pyplot as plt
 from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QMessageBox)
